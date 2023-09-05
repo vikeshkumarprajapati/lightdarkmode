@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+h1 {
+    text-align: center;
+    padding: 32px 16%;
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.icon {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    transition: all .50s all;
+    transform: rotate(45) white;
+
+}
+
+.icon i {
+    font-size: 80px;
+    margin-top: 10%;
+}
